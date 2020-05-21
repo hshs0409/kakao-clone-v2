@@ -16,3 +16,21 @@
 .nav i {
   font-size: 20px;
 }
+
+.nav .nav__list-link {
+  position: relative;
+}
+.nav .nav__comment-count {
+  position: absolute;
+  color: white;
+  background-color: red;
+  font-size: 12px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  top: -8px;
+  right: -8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
