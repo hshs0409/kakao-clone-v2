@@ -6,7 +6,9 @@
 @import "friends.css";
 @import "find.css";
 @import "more.css";
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,600&display=swap");
+@import "settings.css";
+@import "chat.css";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,400;2,600&display=swap");
 
 body {
   background-color: white;
